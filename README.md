@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rhenan%20Paix%C3%A3o&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
+# 👋 Olá, eu sou o Rhenan Paixão
+
+### Desenvolvedor de Software · DBA · Empreendedor SaaS
 
 </div>
-
-### Olá, eu sou o Rhenan 👋
 
 Desenvolvedor e empreendedor de software, atuando entre desenvolvimento de sistemas, administração de banco de dados e construção de produtos SaaS próprios.
 
