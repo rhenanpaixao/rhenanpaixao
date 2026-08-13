@@ -1,47 +1,43 @@
-<div align="center">
+# Olá, eu sou o Rhenan Paixão 👋
+### Desenvolvedor de Software · DBA · Arquitetura · Empreendedor SaaS
 
-# 👋 Olá, eu sou o Rhenan Paixão
+Atuo de ponta a ponta: arquitetura, desenvolvimento, banco de dados, infraestrutura e operação do produto.
 
-### Desenvolvedor de Software · DBA · Empreendedor SaaS
+## 💼 Sobre mim
 
-</div>
+- **Analista de Sistemas (CLT):** desenvolvimento e integração de sistemas para a área da saúde.
+- **DBA:** administração, otimização, alta disponibilidade e replicação — principalmente PostgreSQL e Oracle.
+- **Empreendedor SaaS:** construo produtos próprios, do código à infraestrutura, custos e aquisição de clientes.
+- **Trajetória:** iniciada em suporte, passando por desenvolvimento e DBA, evoluindo para engenharia e arquitetura de software.
 
-Desenvolvedor e empreendedor de software, atuando entre desenvolvimento de sistemas, administração de banco de dados e construção de produtos SaaS próprios.
+## 🛠️ Stack
 
-#### 💼 O que eu faço
+**Backend:** Java · Spring Boot · Laravel · PHP · APIs REST · JWT/OAuth2
 
-- **CLT:** Analista de Sistemas, com foco em desenvolvimento voltado a sistemas de saúde (Santa Casa).
-- **PJ / Empreendedor:** construo e vendo produtos SaaS de forma independente — do código à infraestrutura, passando por modelo de negócio e aquisição de clientes.
-- **Background:** 7 anos de experiência em TI, passando por suporte, desenvolvimento, sistemas distribuídos e, nos últimos anos, administração de banco de dados (DBA), com foco em alta disponibilidade e replicação PostgreSQL.
+**Frontend & Mobile:** Vue.js · Flutter
 
-#### 🛠️ Stack principal
+**Bancos de Dados:** PostgreSQL (HA/Replicação) · Oracle · Redis · Modelagem e otimização de queries
 
-<div align="center">
+**Infraestrutura & DevOps:** Linux · Docker · Kubernetes · Nginx · CI/CD · Git · Prometheus · Grafana · Zabbix
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🚀 Projetos
 
-</div>
+**🛠️ ERP para Oficinas Mecânicas** — SaaS multi-tenant para gestão de oficinas: ordens de serviço, financeiro, permissões de usuário.
 
-- **Domínios:** Sistemas fiscais brasileiros · Arquitetura multi-tenant · SaaS · Logística/TMS
+**🚛 TMS — Gestão para Transportadoras** — plataforma logística multi-tenant (schema-per-tenant), com integração fiscal (CT-e).
 
-#### 🚀 Produtos e projetos
+**💰 Finanças a Dois** — produto de finanças compartilhadas para casais, com dashboards e multiusuário.
 
-- **ERP para oficinas mecânicas** — sistema multi-tenant completo para gestão de oficinas automotivas.
-- **TMS (Transportadora)** — plataforma logística multi-tenant, com arquitetura schema-per-tenant e integração fiscal (CT-e/documentos fiscais).
-- **Finanças a Dois** — produto de finanças pessoais para casais.
-- **Bot Telegram SaaS** — bot com acesso em camadas e gateway de pagamento integrado.
-- **Sistema de licenciamento anti-fraude** — camada de proteção para produto vendido no Mercado Livre.
+_Outros projetos: Bot Telegram SaaS com gateway de pagamento, sistema de licenciamento anti-fraude para marketplace._
 
-#### 🧠 Como eu penso arquitetura
+## 🧠 Como penso arquitetura
 
-Como sou responsável pelos meus produtos de ponta a ponta — código, banco, infraestrutura e negócio — minhas decisões de arquitetura sempre levam em conta custo operacional e manutenção no mundo real, não só o design ideal no papel.
+Ser responsável pelo produto inteiro — não só pelo código — me obriga a pensar em código, banco, infraestrutura, custo e operação como uma coisa só. Por isso não escolho arquitetura pela "moda": um monólito bem estruturado é muitas vezes melhor escolha que microsserviços, dependendo do tamanho real do time e do produto. Busco sistemas simples de manter, fáceis de observar e financeiramente sustentáveis.
 
-#### 📫 Contato
+## 📚 Estudando atualmente
 
-- LinkedIn: [Rhenan Paixão](https://www.linkedin.com/in/rhenan-paix%C3%A3o-3b8159b0/)
+Arquitetura distribuída · Cloud · Observabilidade avançada · Automação de infraestrutura
+
+## 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/SEU-LINK-AQUI) · [GitHub](https://github.com/rhenanpaixao)
