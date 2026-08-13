@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Rhenan%20Paix%C3%A3o&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
+
+</div>
+
 ### Olá, eu sou o Rhenan 👋
 
 Desenvolvedor e empreendedor de software, atuando entre desenvolvimento de sistemas, administração de banco de dados e construção de produtos SaaS próprios.
@@ -10,9 +16,18 @@ Desenvolvedor e empreendedor de software, atuando entre desenvolvimento de siste
 
 #### 🛠️ Stack principal
 
-- **Backend:** PHP · Laravel · Java · Spring Boot
-- **Frontend:** Vue.js
-- **Banco de dados:** PostgreSQL (HA / Replicação) · MySQL
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
 - **Domínios:** Sistemas fiscais brasileiros · Arquitetura multi-tenant · SaaS · Logística/TMS
 
 #### 🚀 Produtos e projetos
