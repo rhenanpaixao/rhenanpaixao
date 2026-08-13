@@ -1,43 +1,40 @@
 # Olá, eu sou o Rhenan Paixão 👋
-### Desenvolvedor de Software · DBA · Arquitetura · Empreendedor SaaS
+### Desenvolvedor Backend Sênior · DBA PostgreSQL · Arquitetura Multi-tenant
 
-Atuo de ponta a ponta: arquitetura, desenvolvimento, banco de dados, infraestrutura e operação do produto.
+Mais de 7 anos desenvolvendo, mantendo e evoluindo sistemas web, ERPs e APIs — atuando de ponta a ponta: arquitetura, backend, banco de dados e infraestrutura.
 
 ## 💼 Sobre mim
 
-- **Analista de Sistemas (CLT):** desenvolvimento e integração de sistemas para a área da saúde.
-- **DBA:** administração, otimização, alta disponibilidade e replicação — principalmente PostgreSQL e Oracle.
-- **Empreendedor SaaS:** construo produtos próprios, do código à infraestrutura, custos e aquisição de clientes.
-- **Trajetória:** iniciada em suporte, passando por desenvolvimento e DBA, evoluindo para engenharia e arquitetura de software.
+- **Backend:** forte em **Java (Spring Boot)** e **PHP (Laravel/CodeIgniter)**, com foco em regras de negócio complexas, módulos financeiros e arquiteturas multi-tenant.
+- **DBA PostgreSQL:** experiência em ambientes de alta criticidade — migração Cloud → On-Premises com upgrade de versão (14→16), alta disponibilidade (Patroni, Streaming Replication, Citus), backup/disaster recovery (pgBackRest, Barman).
+- **Setores:** saúde, portuário/logística, educacional e SaaS — da análise de requisitos à sustentação em produção.
+- **Sistemas fiscais brasileiros:** NFSe, CT-e, MDF-e, integração à SEFAZ.
+- **Hoje:** desenvolvo produtos SaaS próprios (PJ), sendo responsável pelo produto de ponta a ponta.
 
 ## 🛠️ Stack
 
-**Backend:** Java · Spring Boot · Laravel · PHP · APIs REST · JWT/OAuth2
+**Backend:** Java (Spring Boot) · PHP (Laravel) · APIs REST · JWT/OAuth2
 
-**Frontend & Mobile:** Vue.js · Flutter
+**Frontend & Mobile:** Vue.js (Vue 3 / Composition API) · Flutter
 
-**Bancos de Dados:** PostgreSQL (HA/Replicação) · Oracle · Redis · Modelagem e otimização de queries
+**Bancos de Dados:** PostgreSQL (HA/Replicação: Patroni, Citus) · Oracle · MySQL · SQL Server · MongoDB · Redis
 
-**Infraestrutura & DevOps:** Linux · Docker · Kubernetes · Nginx · CI/CD · Git · Prometheus · Grafana · Zabbix
+**Infraestrutura & DevOps:** Docker · Kubernetes · Nginx · CI/CD (GitHub Actions) · Prometheus · Grafana · Zabbix · Bash
 
 ## 🚀 Projetos
 
-**🛠️ ERP para Oficinas Mecânicas** — SaaS multi-tenant para gestão de oficinas: ordens de serviço, financeiro, permissões de usuário.
+**🚛 Plataforma de Logística (TMS)** — sistema multi-tenant (schema-per-tenant) para gestão de transporte, com integração direta à SEFAZ. Backend Java (Spring Boot), frontend Vue.js, PostgreSQL.
 
-**🚛 TMS — Gestão para Transportadoras** — plataforma logística multi-tenant (schema-per-tenant), com integração fiscal (CT-e).
+**🛠️ ERP Multi-tenant para Oficinas Automotivas** — portal do cliente com agendamento online, aprovação digital de ordens de serviço e acompanhamento em tempo real. Backend PHP (Laravel), MySQL.
+
+**🚢 Sistema de Gestão Portuária e Logística** — sistema multi-tenant rodando em 4 ambientes/clientes com o mesmo código-base: rastreamento GPS/telemetria, geofencing, operação portuária, frota e financeiro. ~390 endpoints REST, RBAC próprio, frontend Vue 3 com 500+ componentes.
 
 **💰 Finanças a Dois** — produto de finanças compartilhadas para casais, com dashboards e multiusuário.
 
-_Outros projetos: Bot Telegram SaaS com gateway de pagamento, sistema de licenciamento anti-fraude para marketplace._
-
 ## 🧠 Como penso arquitetura
 
-Ser responsável pelo produto inteiro — não só pelo código — me obriga a pensar em código, banco, infraestrutura, custo e operação como uma coisa só. Por isso não escolho arquitetura pela "moda": um monólito bem estruturado é muitas vezes melhor escolha que microsserviços, dependendo do tamanho real do time e do produto. Busco sistemas simples de manter, fáceis de observar e financeiramente sustentáveis.
-
-## 📚 Estudando atualmente
-
-Arquitetura distribuída · Cloud · Observabilidade avançada · Automação de infraestrutura
+Ser responsável pelo produto inteiro — não só pelo código — me obriga a pensar em código, banco, infraestrutura e custo como uma coisa só. Não escolho arquitetura pela moda: um monólito bem estruturado costuma ser melhor escolha que microsserviços, dependendo do tamanho real do time e do produto.
 
 ## 📫 Contato
 
-[LinkedIn](https://linkedin.com/in/SEU-LINK-AQUI) · [GitHub](https://github.com/rhenanpaixao)
+[LinkedIn](https://linkedin.com/in/rhenanpaixao-3b8159b0) · [GitHub](https://github.com/rhenanpaixao) · [Portfólio](https://rdpl.com.br)
